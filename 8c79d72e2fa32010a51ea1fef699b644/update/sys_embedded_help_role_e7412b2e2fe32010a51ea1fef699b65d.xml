@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_gittest_integrations" name="sn_dd_gittest_integrations">a3412b2e2fe32010a51ea1fef699b65b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>AndriiIarmolatii</sys_created_by>
+        <sys_created_on>2021-04-19 13:49:43</sys_created_on>
+        <sys_id>e7412b2e2fe32010a51ea1fef699b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a3412b2e2fe32010a51ea1fef699b65b</sys_name>
+        <sys_package display_value=" GIT Test" source="x_286288_git_test">8c79d72e2fa32010a51ea1fef699b644</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" GIT Test">8c79d72e2fa32010a51ea1fef699b644</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e7412b2e2fe32010a51ea1fef699b65d</sys_update_name>
+        <sys_updated_by>AndriiIarmolatii</sys_updated_by>
+        <sys_updated_on>2021-04-19 13:49:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
